@@ -1,0 +1,42 @@
+﻿  Main.cpp
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(22): warning C4083: expected '('; found identifier 'disable'
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(23): warning C4083: expected '('; found identifier 'disable'
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(24): warning C4083: expected '('; found identifier 'disable'
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(163): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(165): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(165): warning C4129: '|': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(167): warning C4129: '_': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(168): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(170): warning C4129: '/': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(171): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(171): warning C4129: '_': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(172): warning C4129: '_': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(332): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(333): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(338): warning C4805: '==': unsafe mix of type 'double' and type 'bool' in operation
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(346): warning C4805: '==': unsafe mix of type 'double' and type 'bool' in operation
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(352): warning C4805: '==': unsafe mix of type 'double' and type 'bool' in operation
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(359): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(360): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(360): warning C4129: '.': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(361): warning C4129: '_': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(361): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(362): warning C4129: ';': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(362): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(365): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(370): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(377): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(379): warning C4129: '*': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(380): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(381): warning C4129: '_': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(381): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(382): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(383): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(384): warning C4129: '_': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(385): warning C4129: '.': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(386): warning C4129: ' ': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(386): warning C4129: '_': unrecognized character escape sequence
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(413): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(427): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\noah\source\repos\cis108_lab10-redo2\cis108_lab10-master2\the phantom runes2\tpr2\main.cpp\main.cpp(445): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp.vcxproj -> C:\Users\Noah\source\repos\CIS108_lab10-redo2\CIS108_lab10-master2\The Phantom Runes2\TPR2\x64\Debug\TPR.exe
